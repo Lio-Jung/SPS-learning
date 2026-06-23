@@ -5,6 +5,7 @@ learning SPS with TIA Portal
 
 
 Was 
+
 Simulationsprojekt zur industriellen Automatisierung: eine Paketsortieranlage in Factory I/O, gesteuert über TIA Portal und S7-PLCSIM Advanced. Pakete werden nach Größe erkannt und auf verschiedene Förderstrecken bzw. Ausgänge sortiert.
 
 
